@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 Welcome!</h1>
-<p align="center">self-taught,enthusiast && a persistent programmer, Making sure to embrace every challenge, learn from every mistake, and celebrate every victory(even the smallest) along the way.</p>
+<p align="center">Self-taught developer. Learning and growing through perseverence. making sure I finish the day studying or overcoming difficulties, persistently seeking new solutions </p>
 <div align="center">
 <img src="https://i.imgflip.com/65qngn.gif" width="50%">
 </div>
