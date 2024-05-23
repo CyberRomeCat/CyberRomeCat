@@ -1,4 +1,4 @@
-<h1 align="center">Heyy there 👋 welcome to my github profile page</h1>
+<h1 align="center">Heyy there 👋 Welcome!</h1>
 <h2 align="center">self-taught,enthusiast && a persistent programmer, Making sure to making sure to embrace every challenge, learn from every mistake, and celebrate every victory(even the smallest) along the way.</h2>
 
 - 🌱 I’m currently learning **The Odin Project**
