@@ -1,8 +1,5 @@
 <h1 align="center">Hey there 👋 Welcome!</h1>
-<p align="center">Self-taught developer. Learning and growing through perseverence. making sure I finish the day studying or overcoming difficulties, persistently seeking solutions </p>
-<div align="center">
-<img src="https://i.imgflip.com/65qngn.gif" width="50%">
-</div>
+<p align="center">Self-taught developer. Learning and growing through perseverence </p>
 
 - I’m currently learning:
  <img src="https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Fproviders%2Fthe-odin-project-hz.png?auto=format&ixlib=php-4.1.0&s=feaa8845dc8a3dee609e492cdd0759d8" height="70">
