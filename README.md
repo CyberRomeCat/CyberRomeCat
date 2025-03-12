@@ -1,11 +1,6 @@
 <h1 align="center">Hey there 👋 Welcome!</h1>
 <p align="center">Self-taught developer </p>
 
-- I’m currently learning:
- <img src="https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Fproviders%2Fthe-odin-project-hz.png?auto=format&ixlib=php-4.1.0&s=feaa8845dc8a3dee609e492cdd0759d8" height="70">
-
- ![react](https://github.com/CyberRomeCat/CyberRomeCat/assets/120878346/950a9d2a-7433-4635-a2c7-5ea93c1bffdf)
-
 <p align="left">
 </p>
 
